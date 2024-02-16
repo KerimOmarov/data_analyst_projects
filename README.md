@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/KerimOmarov/data_analyst_projects/tree/main/03.%20business_metrics_analysis">App Business Metrics Analysis</a></td>
-    <td>Exploratory data analysis. Analyzed LTV, ROI, Conversion rate, Retention and marketing expenses. Found the reasons of inefficiencies and gave recommendations.</td>
+    <td>Exploratory data analysis. Analyzed LTV, ROI, Conversion rate, Retention, and marketing expenses. Found the reasons for inefficiencies and gave recommendations.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/KerimOmarov/data_analyst_projects/tree/main/04.%20data_driven_business_decision_making">Data-Driven Business Decision Making</a></td>
